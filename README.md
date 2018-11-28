@@ -1,3 +1,3 @@
 # collectionviews-starter
 
-School project practice about collection views: inserting, deleting, and updating
+School project practice for collection views: inserting, deleting, and updating
